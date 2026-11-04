@@ -58,6 +58,8 @@ Depuis le dossier `hello_ispa`, exécuter :
 ```bash
 flutter pub get
 flutter run
+```
 ## 8. Conclusion
 
 Ce travail pratique permet de découvrir les bases de Flutter : création d'une classe de données, affichage d'une liste et gestion d'un état interactif avec `StatefulWidget` et `setState()`.
+
